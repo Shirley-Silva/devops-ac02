@@ -1,4 +1,6 @@
-RA: 1701763
-Nome: Jaqueline Ribeiro dos Santos 
+# RA: 1701763
+# Nome: Jaqueline Ribeiro dos Santos 
+# Curso: Sistemas de Informação 
 
-Desenvolvedora Full Stack - Mercado Livre / Accenture / Tivit 
+# Desenvolvedora Full Stack  
+# Mercado Livre / Accenture / Tivit 
