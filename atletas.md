@@ -1,3 +1,2 @@
 # Melhores Atletas
-Neymar
-Gianluigi Buffon
+# Gianluigi Buffon
